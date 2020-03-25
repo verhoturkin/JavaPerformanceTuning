@@ -2,7 +2,7 @@
  * Copyright (c) 2013,2014 Scott Oaks. All rights reserved.
  */
 
-package net.sdo;
+package FirstEdition.UncontendedSync.src.net.sdo;
 
 import java.util.ArrayList;
 import java.util.concurrent.atomic.AtomicLong;
